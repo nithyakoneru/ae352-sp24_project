@@ -224,7 +224,7 @@ conda clean -a -y
 Now install the dependencies by running the commands
 
 ```bash
-conda install control matplotlib notebook numpy pybullet pynput pyside6 sympy
+conda install git control matplotlib notebook numpy pybullet pynput pyside6 sympy
 ```
 
 ```bash
