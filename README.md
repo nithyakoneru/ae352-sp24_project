@@ -1,4 +1,4 @@
-# AE352 (Spring, 2023)
+# AE352 (Spring, 2024)
 
 ## Table of Contents
 
